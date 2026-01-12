@@ -37,7 +37,7 @@ To run this project locally, ensure you have:
 2. 
    Configure Database: Update src/main/resources/application.properties with your MySQL details:
 
-Properties
+Application Properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
 spring.datasource.username=your_username
